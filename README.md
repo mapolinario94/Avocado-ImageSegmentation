@@ -4,6 +4,7 @@ Image Segmentation of Avocado Trees in Multispectral and Thermal Aerial Images U
 ## How to use
 
 First, create a virtual environment of Python 3.7.
+
 Then, install all the libraries required. Execute the following code in console:
 
 ```
